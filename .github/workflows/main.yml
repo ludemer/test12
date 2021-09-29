@@ -3,7 +3,7 @@ on:
     branches:
     - main
     
-name: deploy test build
+name: deploy
 
 jobs:
   deploy: 
